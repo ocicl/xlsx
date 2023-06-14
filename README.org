@@ -1,10 +1,9 @@
 * xlsx
 
+Basic reader for Excel files
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/cungil/xlsx.git   |
-| commit  |   |
-| systems | xlsx |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cungil/xlsx.git |
+| commit  | a7a9f0ad42a35c9a7673a33731f6e0b9f17b0d84           |
+| systems | xlsx                                               |
+|---------+----------------------------------------------------|
